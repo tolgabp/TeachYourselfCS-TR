@@ -1,6 +1,6 @@
 # Bilgisayar Bilimini Kendi Kendinize Öğrenin 
 
-> This document is a Portuguese translation of [TeachYourselfCS](https://teachyourselfcs.com), written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#quem-é-o-tradutor).
+> This document is a Turkish translation of [TeachYourselfCS](https://teachyourselfcs.com), written by [Ozan Onay](https://twitter.com/oznova_) and [Myles Byrne](https://twitter.com/quackingduck). For more information about this translation, please refer to [the end of this document](#bunu-kim-çevirdi).
 
 
 Eğer kendi kendini eğitmiş bir mühendis ya da eğitim kampı mezunuysanız, bilgisayar bilimi öğrenmeyi kendine borçlusun. Neyse ki, bir lisansa yıllar ve kendine küçük bir servet harcamadan birinci sınıf bir Bilgisayar Bilimi eğitimi verebilirsiniz 💸.
