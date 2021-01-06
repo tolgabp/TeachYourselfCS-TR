@@ -14,7 +14,7 @@ Bu kılavuz bu sorulara kesin cevaplar bulabilmek için girişimimizdir.
 
 ## TL;DR: (Özet)
 
-Estude todos os assuntos abaixo, mais ou menos na ordem apresentada, usando ou o livro sugerido ou as video aulas, idealmente os dois. Tente dedicar 100-200 horas de estudo para cada um dos tópicos e revisite os seus favoritos durante a sua carreira 🚀.
+Önerilen ders kitabını veya video dersleri, ancak tercihen her ikisini de kullanarak aşağıdaki dokuz konuyu kabaca verilen sırayla çalışınız. Her konuyu 100-200 saat çalışmayı hedefleyiniz, sonra kariyeriniz boyunca tekrar ele alınız 🚀.
 
 
 
@@ -253,5 +253,5 @@ Herkese selam, ben Tolga Barış Pınar. IEU (İzmir Ekonomi Üniversitesi) terc
 
 Öneri, düzeltme veya herhangi bir neden için bana ulaşmaktan çekinmeyin. 
 
-Sağlıklı seneler!
+Sağlıklı günler!
  
