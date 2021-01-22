@@ -44,7 +44,7 @@ Yıllarca 9 konu üzerinde kendi kendine çalışma fikri bunaltıcı hissettiri
 
 Her ikisi de kendilerine yazılım mühendisi diyor ve ikisi de kariyerlerinin başlarında benzer maaş almaya eğilimli. Ancak Tip 1 mühendisler, değerli ticari işler veya çığır açan açık kaynaklı projeler, teknik liderlik veya yüksek kaliteli bireysel katkılar olsun, zamanla daha tatmin edici ve emeğinin karşılığını iyi veren işlere doğru ilerler.
 
-Tip 1 mühendisler, geleneksel yollarla ya da kariyerleri boyunca durmaksızın çalışarak olsun bilgisayar bilimini derinlemesine öğrenmek için yollar bulur. Tip 2 mühendisler genellikle yüzeyde kalır, belirli araçları öğrenir ve altında yatan temellerden ise teknolojileri öğrenir, sadece Type 2 engineers typically stay at the surface, learning specific tools and technologies rather than their underlying foundations, sadece teknik modanın yönü değiştiğinde yeni beceriler kazanır.
+Tip 1 mühendisleri, ister geleneksel yollarla ister kariyerleri boyunca durmaksızın öğrenerek bilgisayar bilimini derinlemesine öğrenmenin yollarını bulur. Tip 2 mühendisleri genellikle yüzeyde kalır, temeller yerine belirli araçları ve teknolojileri öğrenirler, sadece teknik modanın rüzgarları değiştiğinde yeni beceriler kazanırlar.
 
 Şu anda, Bilgisayar Bilimi mezun sayısı değişmez iken bu endüstriye giren insanların sayısı hızla artıyor. Tip 2 mühendislerinin fazlalığı onların istihdam fırsatlarını azaltmaya başladı ve endüstrinin daha tatmin edici işlerinin dışında tuttu. İster Tip 1 mühendis olmak için mücadele edin ister basitçe daha güvenli bir iş arayın, bilgisayar bilimi öğrenmek tek güvenli yol.
 
@@ -101,7 +101,7 @@ Yüzlerce kitap mevcut ancak bizim gözdemiz Steven Skiena’nın _[The Algorith
 
 Uygulama için tercih ettiğimiz yaklaşım, öğrencilerin Leetcode üzerindeki problemleri çözmesidir. Bu problemler, eşlik eden uygun çözümler ve tartışmalar ile ilginç problemler olma eğilimindedir. Ayrıca, daha rekabetçi yazılım şirketlerinde teknik mülakatlarda yaygın olarak kullanılan sorulara karşı ilerlemeyi test etmenize yardımcı olurlar. Çalışmalarınızın bir parçası olarak yaklaşık 100 rastgele leetcode problemini çözmenizi öneririz.
 
-Son olarak şiddetle [How to Solve It](http://timroughgarden.org/videos.html)’i genel problem çözmeye konusu için mükemmel ve özgün bir kılavuz olarak öneririz, matematiğe olduğu gibi bilgisayar bilimine de uygulanabilir. 
+Son olarak şiddetle [How to Solve It](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)’i genel problem çözmeye konusu için mükemmel ve özgün bir kılavuz olarak öneririz, matematiğe olduğu gibi bilgisayar bilimine de uygulanabilir. 
 
 [![The Algorithm Design Manual](https://teachyourselfcs.com/skiena.jpg)](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/) [![How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)](https://teachyourselfcs.com/polya.jpg)](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/) 
 
