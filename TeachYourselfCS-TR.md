@@ -61,7 +61,7 @@ Tip 1 mühendisleri, ister geleneksel yollarla ister kariyerleri boyunca durmaks
 
 Çok Bilgisayar Bilimi lisans programları, bilgisayar programlamaya bir “giriş” ile başlıyor. Bu kursların en iyileri, sadece acemiler için değil aynı zamanda kod yazmayı öğrenmeye ilk başladıklarında yararlı kavramları ve programlama modellerini kaçıranlar için.
 
-Bu içerik için genel tavsiyemiz, hem [kitap](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) hem de [MIT video dersleri](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) çevrimiçi ve ücretsiz olan klasik Structure and Interpretation of Computer Programs’dır. Bu dersler harikayken bizim asıl önerimiz Brian Harvey’s SICP dersleridir (Berkeley’deki 61A dersi). Bunlar MIT derslerinden daha arıtılmış ve yeni öğrenci odaklı.
+Bu içerik için genel tavsiyemiz, hem [kitap](https://sarabander.github.io/sicp/html/index.xhtml) hem de [MIT video dersleri](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) çevrimiçi ve ücretsiz olan klasik Structure and Interpretation of Computer Programs’dır. Bu dersler harikayken bizim asıl önerimiz Brian Harvey’s SICP dersleridir [Brian Harvey'in SICP dersleridir](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=title)(Berkeley’deki 61A dersi). Bunlar MIT derslerinden daha arıtılmış ve yeni öğrenci odaklı.
 
 SICP’nin en az ilk üç bölümü üzerinde detaylı incelemeni ve alıştırmaları yapmanı tavsiye ediyoruz. Ek alıştırma için, [exercism](http://exercism.io)’dekiler gibi bir takım programlama problemlerini detay ile ele alın.
 
@@ -77,7 +77,7 @@ Sonunda bir açıklama: bu kılavuz programlamaya tamamen yeni başlamışlar i�
 
 Bazen “bilgisayar sistemleri” ya da “bilgisayar örgütleşimi” diye adlandırılan Bilgisayar Mimarisi, program yüzeyinin altında önemli bir ilk bakıştır. Deneyimimize göre kendini eğiten yazılım mühendisleri arasında en çok ihmal edilen alandır.
 
-[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html) tercih ettiğimiz giriş kitabımızdır ve kitabı kullanan normal bir  bilgisayar mimarisine giriş dersi birden altıncı bölüme kadar çoğu kısmı kapsar.
+[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html) tercih ettiğimiz giriş kitabımızdır ve kitabı kullanan normal bir  bilgisayar mimarisine giriş dersi birden altıncı bölüme kadar çoğu kısmı [kapsar](https://csapp.cs.cmu.edu/3e/courses.html).
 
 CS:APP’i pratik, yazılımcıya yönelik yaklaşımı için seviyoruz. Bilgisayar mimarisine dair kitabın içerdiğinden çok daha fazla şey olduğu halde, ilk olarak daha hızlı, etkili ve güvenilir bir yazılım yazmak için bilgisayar sistemlerini anlamak isteyenler için çok iyi bir başlangıç noktası işlevini görüyor.
 
@@ -99,7 +99,7 @@ Yüzlerce kitap mevcut ancak bizim gözdemiz Steven Skiena’nın _[The Algorith
 
 [Skiena](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp), video dersleri tercih edenler için cömertçe çevrimiçi olarak sağlar. Ayrıca Tim Roughgarden’in [Coursera](https://www.coursera.org/specializations/algorithms)’da ve [başka yerlerde](http://timroughgarden.org/videos.html) mevcut olan kursunu da çok seviyoruz.Skiena's veya Roughgarden’ın ders stilini tercih edip etmediğiniz kişisel tercih meselesi olacaktır. Aslında, düzinelerce iyi alternatif var, bu yüzden hoşunuza giden başka bir alternatif bulursanız, ona bağlı kalmanızı öneririz!
 
-Uygulama için tercih ettiğimiz yaklaşım, öğrencilerin Leetcode üzerindeki problemleri çözmesidir. Bu problemler, eşlik eden uygun çözümler ve tartışmalar ile ilginç problemler olma eğilimindedir. Ayrıca, daha rekabetçi yazılım şirketlerinde teknik mülakatlarda yaygın olarak kullanılan sorulara karşı ilerlemeyi test etmenize yardımcı olurlar. Çalışmalarınızın bir parçası olarak yaklaşık 100 rastgele leetcode problemini çözmenizi öneririz.
+Uygulama için tercih ettiğimiz yaklaşım, [öğrencilerin Leetcode üzerindeki problemleri çözmesidir.](https://leetcode.com/) Bu problemler, eşlik eden uygun çözümler ve tartışmalar ile ilginç problemler olma eğilimindedir. Ayrıca, daha rekabetçi yazılım şirketlerinde teknik mülakatlarda yaygın olarak kullanılan sorulara karşı ilerlemeyi test etmenize yardımcı olurlar. Çalışmalarınızın bir parçası olarak yaklaşık 100 rastgele leetcode problemini çözmenizi öneririz.
 
 Son olarak şiddetle [How to Solve It](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/)’i genel problem çözmeye konusu için mükemmel ve özgün bir kılavuz olarak öneririz, matematiğe olduğu gibi bilgisayar bilimine de uygulanabilir. 
 
@@ -154,7 +154,7 @@ Video dersleri tercih edenler için daha önceden Standford’un MOOC platformu 
 
 Diğer birçok konuya kıyasla, veri tabanı sistemleri hakkında kendi kendine öğrenmek daha fazla çalışma gerektirir. Fikirlerin kapalı kapılar ardında kalmasına yönelik güçlü ticari teşviklere sahip nispeten yeni (yani 1970 sonrası) bir çalışma alanıdır. Ek olarak, olası mükemmel birçok yazar ders kitabı yazmak yerine şirketlere katılmayı veya kurmayı tercih etti.
 
-Koşullar göz önüne alındığında kendi kendine öğrenenleri genel olarak ders kitaplarından kaçınmaya ve Joe Hellerstein’ın Berkeley’deki veri tabanları dersi CS 186’nın kayıtlarıyla başlamaya ve sonrasında makale okumaya devam etmeye teşvik ediyoruz.
+Koşullar göz önüne alındığında kendi kendine öğrenenleri genel olarak ders kitaplarından kaçınmaya ve Joe Hellerstein’ın Berkeley’deki veri tabanları dersi [CS 186’nın kayıtlarıyla](https://www.youtube.com/user/CS186Berkeley/videos) başlamaya ve sonrasında makale okumaya devam etmeye teşvik ediyoruz.
 
 Yeni öğrenciler için özellikle bahsetmeye değer bir makale, ilişkisel veri tabanı yönetim sistemlerinin (RDBMS) nasıl çalıştığına ilişkin benzersiz bir şekilde yüksek düzeyde bir görünüm sağlayan [“Architecture of a Database System”](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) yeni öğrenciler için özellikle bahsetmeye değer bir makaledir. Bu ileri çalışma için bir taslak görevi görecek.
 
